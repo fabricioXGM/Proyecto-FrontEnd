@@ -50,6 +50,7 @@ header{
     padding: 15px 25px;
     display: flex;
 }
+
 .nav-bar li a{
     display: block;
 }

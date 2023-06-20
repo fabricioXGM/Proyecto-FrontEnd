@@ -19,9 +19,6 @@ body{
     grid-template-rows: auto 1fr auto;
 }
 
-
-
-
 .image{
     display: flex;
     align-items: center;
